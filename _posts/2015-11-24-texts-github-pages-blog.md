@@ -1,5 +1,5 @@
 ---
-title: Texts + GitHub Pages = Blog
+title: 稳定的性质
 ---
 
 Follow simple [instructions](<http://www.texts.io/support/0017/>) to publish
