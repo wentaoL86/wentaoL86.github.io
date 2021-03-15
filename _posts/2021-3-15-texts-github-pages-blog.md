@@ -2,27 +2,34 @@
 title: 稳定的性质
 ---
 
-Follow simple [instructions](<http://www.texts.io/support/0017/>) to publish
-your blog on GitHub Pages and write posts in Texts.
+本文讨论的范围限于日常工作，学习，生活的状态稳定
 
-Texts is “rich editor for plain text”—you can write documents in visual
-interface and they will be saved in plain text format with Markdown markup. This
-document shows some of the styles available in Texts.
-
-Images
+什么是稳定
 ------
 
-![](<../images/radcliffe-camera.jpg>)
+稳定就是保持在某一波动较小或波动时间很短的状态
 
-Math
+如何保持稳定
 ----
 
-Formulas can be placed inline like $$E=mc^2$$ or in a separate paragraph, like
-the following one. Standard LaTeX syntax is supported.
+保持稳定就是如何减少波动的幅度和缩短波动时间的问题
 
-$$
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
-$$
+A = \frac{(\eta_1-\eta_2)}{e}
+
+A代表波动幅度，η1代表内部波动，η2代表外部波动，e代表心智弹性系数
+
+外部波动较难控制，具有不可预测性，只能一定程度上依靠改变环境来调整
+
+内部波动大多由外部波动造成，产生后与外部波动无关
+
+心智弹性系数和人解决问题的能力以及承受压力的能力正相关
+
+T=max（η1/h，η2/a）
+
+T代表波动时间，h代表心理调节能力，a代表事务处理能力
+
+心理调节能力正相关于娱乐能力和关注视野大小
+事务处理能力正相关于创造性，勤劳程度，专业知识掌握程度，专业技能熟练程度，沟通交流能力
 
 Code
 ----
