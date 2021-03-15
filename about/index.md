@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wentao Lei
+title: About me
 ---
 
 I'm a Mphil student at The chinese university of Hongkong Shenzhen. Before that, I got my Bachelor degree from Wuhan university. I am now working with Prof. Zhiquan Luo and Dr. Li Liu in the Sribd.
