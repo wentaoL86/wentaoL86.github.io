@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage of Wentao Lei
+title                    : "Homepage of Wentao Lei"
 description              : "Wentao Lei - AI Ph.D. of HKUST(GZ)"
 repository               : "wlei117/academic-homepage"
 google_scholar_stats_use_cdn : true
