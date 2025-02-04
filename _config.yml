@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "雷文涛的个人主页"
-description              : "雷文涛 - 香港科技大学（广州）人工智能博士生"
+title                    : "Homepage of Wentao Lei
+description              : "Wentao Lei - AI Ph.D. of HKUST(GZ)"
 repository               : "wlei117/academic-homepage"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "雷文涛 (Wentao Lei)"
-  avatar           : "images/profile.jpg"  # 需要添加您的照片
+  avatar           : "images/white.png"  # 需要添加您的照片
   bio              : "香港科技大学（广州）人工智能博士生"
   location         : "广州，中国"
   employer         : "香港科技大学（广州）"
