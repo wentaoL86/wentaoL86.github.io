@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), supervised by Prof. Li Liu. My research focuses on controllable audio-visual generation and multi-agent systems. I am particularly interested in Cued Speech and fine-grained gesture generation, with representative works including GlossDiff (IJCAI 2024) and AnyoneCue (TASLP 2025). My recent work also explores physically grounded text-to-audio-video generation and related multimodal learning problems.
+I am a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), supervised by Prof. Li Liu. My research focuses on controllable audio-visual generation and multi-agent systems. I am particularly interested in Cued Speech and fine-grained gesture generation, with representative works including GlossDiff (IJCAI 2024), AnyoneCue (TASLP 2025), and ARCHES (Interspeech 2026). My recent work also explores physically grounded text-to-audio-video generation (PhyAVBench, ACM MM 2026) and related multimodal learning problems.
 
 # 🔥 News
+- *2026*: [ARCHES](https://doi.org/10.21437/Interspeech.2026-561) ([project](https://arches-bench.github.io/)) accepted by Interspeech 2026
+- *2026*: [PhyAVBench](https://arxiv.org/abs/2512.23994) ([project](https://phyavbench.pages.dev/)) accepted by ACM MM 2026
+- *2026.07*: [Audio Embodied Intelligence: Auditory Perception, Reasoning, and Interaction for Multimodal Agents](https://www.preprints.org/manuscript/202607.2237) released on Preprints
 - *2025.12*: [PhyAVBench](https://arxiv.org/abs/2512.23994) ([project](https://phyavbench.pages.dev/)) released on arXiv
 - *2025.12*: [A Comprehensive Survey on Multi-Agent Systems for Audio-Visual Generation and Understanding](https://doi.org/10.36227/techrxiv.176583352.26143196/v1) released on TechRxiv
 - *2025*: [FFD](https://doi.org/10.21437/Interspeech.2025-1105) accepted by Interspeech 2025
@@ -44,11 +47,15 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (Guan
 ## Selected Publications
 - [AnyoneCue: Gloss-Prompted Fine-grained and Personalized Cued Speech Video Generation](https://doi.org/10.1109/taslpro.2025.3641284), Li Liu, **Wentao Lei**, Jun Wang, Wenwu Wang, **IEEE TASLP 2025**
 
+- [ARCHES: An Agent-Based Refinement Cycle for Hierarchical Synthesis of Sound Effects for Variety Shows](https://doi.org/10.21437/Interspeech.2026-561) ([project](https://arches-bench.github.io/)), **Wentao Lei**, Li Liu, **Interspeech 2026**
+
 - [FFD: Fine-Finger Diffusion Model for Music to Fine-grained Finger Dance Generation](https://doi.org/10.21437/Interspeech.2025-1105), Boya Dong, **Wentao Lei**, Li Liu, **Interspeech 2025**
 
-- [PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994) ([code](https://github.com/imxtx/PhyAVBench), [project](https://phyavbench.pages.dev/)), Tianxin Xie, **Wentao Lei**, et al., **arXiv 2025**
+- [PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994) ([code](https://github.com/imxtx/PhyAVBench), [project](https://phyavbench.pages.dev/)), Tianxin Xie, **Wentao Lei**, et al., **ACM MM 2026**
 
 - [A Comprehensive Survey on Multi-Agent Systems for Audio-Visual Generation and Understanding](https://doi.org/10.36227/techrxiv.176583352.26143196/v1) ([Awesome list](https://github.com/wentaoL86/Audio-Visual-agent-Survey)), **Wentao Lei**, Yan Rong, Jinting Wang, Tianxin Xie, Guanjie Huang, Li Liu, **TechRxiv 2025**
+
+- [Audio Embodied Intelligence: Auditory Perception, Reasoning, and Interaction for Multimodal Agents](https://www.preprints.org/manuscript/202607.2237), **Wentao Lei**\*, Tianxin Xie\*, Kai Jiang\*, **Preprints 2026** (*Equal Contribution)
 
 - [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428) ([Awesome list](https://github.com/wentaoL86/Awesome-Human-Video-Generation)), **Wentao Lei**, Jinting Wang, Fengji Ma, Guanjie Huang, Li Liu, **arXiv 2024**
 
@@ -72,5 +79,5 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (Guan
 - *2016 - 2019*, Frontend and Backend Engineer, Advanced Lab of Network Safety, Wuhan University
 
 # 🎖 Services
-- Reviewer of Top AI/CV Conference (AAAI, ICASSP, CVPR, IJCAI, etc.)
+- Reviewer of top AI/CV conferences (AAAI, ICASSP, CVPR, IJCAI, etc.)
 - Teaching Assistant AIAA5049 (L01) - Applied Deep Learning: From Speech to Language and Multimodal Processing. 2024, HKUST(GZ).
